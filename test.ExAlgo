@@ -1,3 +1,9 @@
-test
-test1
-test2
+var test1,test2 : entiers
+test1 = 1
+test2 = 2
+var test3 : caractère
+test3 = 'a'
+var test4 : booléen
+test4 = Vrai
+var test5 : réel
+test5 = 5,5
